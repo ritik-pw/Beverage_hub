@@ -30,4 +30,4 @@ Each category contains multiple varieties, with detailed information on ingredie
 
 1. Clone this repository:
    bash
-   git clone https://github.com/username/the-beverage-hub.git
+   git clone https://github.com/ritik-pw/the-beverage-hub.git
